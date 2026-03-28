@@ -1,3 +1,5 @@
+import nltk
+nltk.download('stopwords')
 import json
 import nltk
 import re
